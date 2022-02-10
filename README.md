@@ -14,6 +14,7 @@
     let qr = new QRious({
       element: document.getElementById('qr'),
       size: 400,
+      level: 'H',
       background: '#b5e853',
       value: window.location.href
     });
