@@ -13,8 +13,8 @@
   (function() {
     let qr = new QRious({
       element: document.getElementById('qr'),
-      size: 512,
-      background: '#b3b3b3',
+      size: 400,
+      background: '#b5e853',
       value: window.location.href
     });
   })();
