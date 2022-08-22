@@ -2,6 +2,7 @@
 
 - [Getsrevel](https://getsrevel.github.io/)
 - [Prog-B-2021](prog-b-2021/)
+- [Prog-B-2022](prog-b-2022/)
 - [Prog-C-2022](prog-c-2022/)
 
 
