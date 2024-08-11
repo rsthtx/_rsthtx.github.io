@@ -2,8 +2,6 @@
 
 - [Getsrevel](https://getsrevel.github.io/)
 - [Prog-B-2023](prog-b-2023/)
-- [Prog-B-2022](prog-b-2022/)
-- [DDU-2023](ddu-2023/)
 
 <canvas id="qr"></canvas>
 
